@@ -8,7 +8,7 @@ var nKid = parseInt(numChildren)
 
 
 console.log("I am Rustam and I am " + nAge + " years old and I have " 
-            + nKid + " children and I am married to " + name + " And, we live on " + place + " !!!");
+            + nKid + " children and I am married to " + name + " And, we live on " + place + "!!");
 
 
 
